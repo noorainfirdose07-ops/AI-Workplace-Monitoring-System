@@ -1,0 +1,11 @@
+AI-Workplace-Monitoring-System/
+│── README.md              # Project documentation
+│── requirements.txt       # Python dependencies
+│── docs/                  # Project report (PDF, diagrams, documentation)
+│── app.py                 # Main Flask backend script
+│── models/                # YOLOv8 model files
+│── utils/                 # Helper functions (activity classification, logging)
+│── database/              # Supabase integration scripts
+│── templates/             # HTML templates for dashboard
+│── static/                # CSS, JS, images
+│── assets/                # Output screenshots (YOLOv8 detection, dashboard)
